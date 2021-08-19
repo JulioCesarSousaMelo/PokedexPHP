@@ -1,0 +1,14 @@
+
+/* Customização das imagens */ 
+.img-pokemons{
+    width: 7em;
+    height: 7em;
+}
+
+/* Customizar o card */
+.card-custom{
+    text-align: center;
+    align-items: center;
+    height: 100%;
+}
+
